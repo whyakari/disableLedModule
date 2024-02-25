@@ -3,3 +3,8 @@
 
 ## Who is this module useful for?
 > This module is for ROMs that do not have the option to turn off the charging LED.
+
+## Credits
+```
+By @Danlolpess and @whyakari
+```
