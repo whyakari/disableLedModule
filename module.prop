@@ -1,0 +1,6 @@
+id=led_disable
+name=Disable LED Charging
+version=2.0
+versionCode=1
+author=Akari
+description=disable led when charging
